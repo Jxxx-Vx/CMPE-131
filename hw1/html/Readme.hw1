@@ -1,0 +1,19 @@
+
+
+This is a HTML resume created by me, John Vo.
+
+The Resume consists of 4 HTML pages, resume.html, transcript.html prj1.html,
+and prj2.html. The main page is resume.html and the other html pages are accessible
+from this main page. The main page goes briefly over my contact information, includes
+a photo as well as a video for self introduction. It also includes additional information
+on my knowledge of programming languages, my objective, education level, and has a push button
+to access my transcript and a drop down box to access my projects.
+
+The main page also contains a password protected button that is linked to my transcript.html.
+The password for this button is "frankbutt".
+
+Below this button will be a dropdown box, which will allow the user to select Projects 1 or 2,
+which will redirect the user once they select submit. If the user has not selected any project,
+an alert will pop up warning the user.
+
+Thank you and enjoy.
